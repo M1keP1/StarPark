@@ -1,0 +1,89 @@
+AI-Powered Star Tracker - 8-Week Learning Schedule
+
+Week 1-2: Astronomy and Python Basics
+Goal: Learn how the night sky is mapped and get comfortable with Python for astronomy.
+Topics:
+1. Basics of celestial coordinates (RA/Dec, Alt/Az). (~2 hours)
+   Search: "Celestial coordinates explained" or "How to read the night sky."
+   
+2. Overview of star catalogs (Gaia, HIPPARCOS, SIMBAD). (~2 hours)
+   Search: "How to use star catalogs for astronomy."
+   
+3. Python fundamentals (NumPy, Matplotlib). (~3 hours)
+   Search: "Python for data analysis playlist."
+   
+4. Introduction to Astropy for working with star catalogs. (~3 hours)
+   Search: "Astropy tutorial for astronomy."
+   Suggested Playlist: Astropy tutorials on YouTube.
+
+---
+
+Week 3-4: Image Processing with OpenCV
+Goal: Understand how to process night sky images and detect stars.
+Topics:
+1. Image basics (brightness, contrast, noise, thresholding). (~3 hours)
+   Search: "Image preprocessing OpenCV tutorial."
+
+2. Detecting stars in images using blob detection or edge detection. (~3 hours)
+   Search: "Blob detection tutorial OpenCV" or "Star detection Python OpenCV."
+
+3. Denoising and improving image quality (Gaussian blur, adaptive thresholding). (~3 hours)
+   Search: "OpenCV denoising tutorial."
+   Suggested Playlist: Computer Vision OpenCV Python Playlist.
+
+---
+
+Week 5: Pre-Trained Models and Object Detection
+Goal: Learn to use pre-trained AI models like YOLO or ResNet.
+Topics:
+1. Overview of YOLO and how object detection works. (~3 hours)
+   Search: "YOLO object detection tutorial for beginners."
+
+2. Using YOLO or ResNet with Python for simple object detection tasks. (~3 hours)
+   Search: "Object detection using YOLO Python."
+
+3. Fine-tuning a pre-trained model for custom tasks. (~3 hours)
+   Search: "Transfer learning tutorial ResNet or YOLO."
+   Suggested Playlist: YOLO Object Detection Tutorials.
+
+---
+
+Week 6: Star Matching and Sky Analysis
+Goal: Match detected star patterns to catalogs and perform coordinate mapping.
+Topics:
+1. Pattern matching with clustering (k-means or DBSCAN). (~3 hours)
+   Search: "Pattern recognition using clustering Python."
+
+2. Mapping pixel coordinates to RA/Dec using Astropy. (~3 hours)
+   Search: "Astropy coordinate transformations tutorial."
+
+3. Algorithms to identify constellations from detected star patterns. (~3 hours)
+   Search: "How constellations are identified using patterns Python."
+
+---
+
+Week 7: Visualization
+Goal: Build an interface to display analyzed results and overlay patterns on images.
+Topics:
+1. Plotting stars and matched patterns on images using Matplotlib. (~3 hours)
+   Search: "Matplotlib overlay images with data tutorial."
+
+2. Building a basic app with Streamlit or Dash for interactivity. (~3 hours)
+   Search: "Streamlit beginner tutorial" or "Dash tutorial Python."
+
+---
+
+Week 8: Integration and Testing
+Goal: Put everything together and test the full pipeline.
+Topics:
+1. Combine pre-trained models, image processing, and mapping. (~3 hours)
+   Search: "Python project integration OpenCV and AI."
+
+2. Test with real or simulated sky images, tweak parameters, and debug. (~3 hours)
+   Search: "Debugging Python projects effectively."
+
+3. Document your project (write a README and clean up code). (~2 hours)
+
+---
+
+This schedule provides a clear roadmap for your AI-powered star tracker project, helping you gradually build the necessary skills and integrate them to form a complete system. Make sure to take breaks, review concepts along the way, and adjust the timeline based on your pace.
